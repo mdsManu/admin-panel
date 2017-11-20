@@ -18,7 +18,8 @@
 
     &:focus {
       outline: none;
-      background-color: darken($dropdown-hover-bg-color, 8%);
+      background-color: $dropdown-hover-bg-color;
+      //darken($dropdown-hover-bg-color, 8%);
     }
 
     &.divider {

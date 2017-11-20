@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-// Costum CSS
-@import "custom.sass";
-
 // Mixins
 @import "components/mixins";
 @import "components/color";
@@ -42,3 +39,6 @@
 @import "components/pulse";
 @import "components/datepicker";
 @import "components/timepicker";
+
+// Costum CSS
+@import "custom.scss";

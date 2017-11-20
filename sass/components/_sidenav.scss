@@ -94,7 +94,7 @@
 
   .user-view {
     position: relative;
-    padding: ($sidenav-padding * 2) ($sidenav-padding * 2) 0;
+    padding: $sidenav-padding $sidenav-padding 0;
     margin-bottom: $sidenav-padding / 2;
 
     & > a {

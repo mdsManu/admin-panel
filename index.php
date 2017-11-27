@@ -2,7 +2,7 @@
   <html>
     <?php require 'parts/head.php'; ?>
 
-    <body class="loaded">
+    <body>
 
       <div id="loader-wrapper">
         <div id="loader"></div>
@@ -19,6 +19,10 @@
         <!-- START LEFT SIDEBAR -->
         <?php require 'parts/right_sidebar/sidebar.php'; ?>
         <!-- END LEFT SIDEBAR -->
+        <!-- =========================================================== -->
+        <!-- START MAIN CONTENT  -->
+        <?php require 'parts/main_content/main.php'; ?>
+        <!-- END MAIN CONTENT -->
       </div>
 
 

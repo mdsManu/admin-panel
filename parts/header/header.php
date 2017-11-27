@@ -13,7 +13,7 @@
                     <a href="index.php">
                     <!-- <img src="" alt=""> -->
                       <span class="logo-text">
-                        <h5><strong>More Dimensions</strong></h5>
+                        <h5><strong>MDS.com</strong></h5>
                       </span>
                     </a>
                   </div>
@@ -22,7 +22,7 @@
             </div>
 
             <!-- Search Bar -->
-            <div class="col s8 hide-on-med-and-down">
+            <div class="col s7 hide-on-med-and-down">
               <div class="searchbar">
                 <i class="material-icons" style="position: absolute; padding-left: 20px">search</i>
                 <input type="text" name="searchbar" placeholder="Search the Intranet...">
@@ -30,7 +30,7 @@
             </div>
 
             <!-- Right Navbar -->
-            <div class="col s2 hide-on-med-and-down">
+            <div class="col s3 hide-on-med-and-down">
               <ul class="right">
                 <li>
                   <a href="#!" class=" dropdown-trigger" data-target="translation-dropdown">
